@@ -1,0 +1,113 @@
+.navbar{
+    height: 80px;
+    background-color: transparent;
+    box-shadow: 
+        inset 0px 75px 40px -35px rgb(44, 44, 44),
+        inset 0px 0px 0px 0px rgb(194, 194, 194); 
+}
+
+.container{
+    margin: auto;
+}
+
+.main-nav{
+    display: flex;
+}
+
+.dropdown-menu{
+    border: 2px solid white;
+    background-color: transparent;
+}
+
+.dropdown-item:hover{
+    background-color: dodgerblue;
+}
+
+.section-1{
+    width: 100%;
+    background-image: url("images/Worklab\ Spot.jpg");
+    background-color: royalblue;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height:100vh;
+}
+
+.section-2{
+    width: 100%;
+    /* background-image: url("images/Worklab\ Spot.jpg"); */
+    background-color: rgb(49, 108, 235);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height:60vh;
+}
+
+.section-3{
+    width: 100%;
+    /* background-image: url("images/Worklab\ Spot.jpg"); */
+    background-color: rgb(128, 128, 128);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height:60vh;
+}
+
+.section-4{
+    width: 100%;
+    /* background-image: url("images/Worklab\ Spot.jpg"); */
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height:60vh;
+}
+
+.section-5{
+    width: 100%;
+    /* background-image: url("images/Worklab\ Spot.jpg"); */
+    background-color: rgb(195, 195, 195);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height:60vh;
+}
+
+.section-6{
+    width: 100%;
+    /* background-image: url("images/Worklab\ Spot.jpg"); */
+    background-color: rgb(147, 224, 255);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height:60vh;
+}
+
+.push{
+    margin-left: auto;
+}
+
+.nav-link{
+    color:white;
+}
+
+.nav-link:hover{
+    color:dodgerblue;
+}
+
+.highlight-link{
+    color: dodgerblue;
+}
+
+.highlight-link:hover{
+    color:lightskyblue;
+}
+
+.sec1-content{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 60%;
+    width: auto;  
+}
+
